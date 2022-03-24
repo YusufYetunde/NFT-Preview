@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YusufYetunde/NFT-Preview.git/static/css/main.2b9ccbfc.css",
+    "main.js": "/YusufYetunde/NFT-Preview.git/static/js/main.5b390adb.js",
+    "static/media/image-equilibrium.jpg": "/YusufYetunde/NFT-Preview.git/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/YusufYetunde/NFT-Preview.git/index.html",
+    "static/media/icon-view.svg": "/YusufYetunde/NFT-Preview.git/static/media/icon-view.fedac5512cc6657af397.svg",
+    "static/media/icon-clock.svg": "/YusufYetunde/NFT-Preview.git/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/YusufYetunde/NFT-Preview.git/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.2b9ccbfc.css.map": "/YusufYetunde/NFT-Preview.git/static/css/main.2b9ccbfc.css.map",
+    "main.5b390adb.js.map": "/YusufYetunde/NFT-Preview.git/static/js/main.5b390adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9ccbfc.css",
+    "static/js/main.5b390adb.js"
+  ]
+}
